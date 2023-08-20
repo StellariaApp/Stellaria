@@ -37,6 +37,10 @@ body {
   overflow: hidden;
 }
 
+* {
+  font-family: var(--font-inter);
+}
+
 h1,
 h2,
 h3,
